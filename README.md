@@ -8,7 +8,7 @@
 ## ⌨️ Languages
 <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<a href="https://docs.python.org/en/3/reference/index.html" target="_blank"><img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://docs.oracle.com/javase/10/docs/api/overview-summary.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="https://dev.w3.org/html5/html-author/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
