@@ -11,6 +11,7 @@
 <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://docs.oracle.com/javase/10/docs/api/overview-summary.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<a href="https://cran.r-project.org" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <a href="https://dev.w3.org/html5/html-author/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="https://www.latex-project.org" target="_blank"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/></a>
