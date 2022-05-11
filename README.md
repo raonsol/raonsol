@@ -26,6 +26,7 @@
 <a href="https://docs.opencv.org/4.5.4/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="https://www.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 
 ## 🛠 Tools
