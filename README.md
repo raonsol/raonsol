@@ -1,6 +1,5 @@
-(working) programmer, designer, and creator
-
-![raonsol's stats](https://github-readme-stats.vercel.app/api?username=raonsol&show_icons=true&theme=vue)
+![header](https://capsule-render.vercel.app/api?height=300&type=waving&color=timeGradient&animation=twinkling&text=raonsol&fontAlignY=35&desc=(working)%20programmer,%20designer,%20and%20creator&descAlignY=55)
+![raonsol's stats](https://github-readme-stats.vercel.app/api?username=raonsol&custom_title=Stats&include_all_commits=treu&show_icons=true&theme=vue&count_private=true&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raonsol&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
