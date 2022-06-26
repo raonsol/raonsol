@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?height=300&type=waving&color=timeGradient&animation=twinkling&text=raonsol&fontAlignY=35&desc=(working)%20programmer,%20designer,%20and%20creator&descAlignY=55)
-![raonsol's stats](https://github-readme-stats.vercel.app/api?username=raonsol&custom_title=Stats&include_all_commits=treu&show_icons=true&theme=vue&count_private=true&line_height=20)
+![raonsol's stats](https://github-readme-stats.vercel.app/api?username=raonsol&custom_title=Stats&include_all_commits=treu&show_icons=true&theme=vue&count_private=true&line_height=20&custom_width=200)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raonsol&theme=vue&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=raonsol)](https://solved.ac/raonsol)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=raonsol&theme=warm)
 
 # Skills 💪🏻
 ## ⌨️ Languages
