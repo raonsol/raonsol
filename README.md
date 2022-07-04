@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=300&type=waving&color=timeGradient&animation=twinkling&text=raonsol&fontAlignY=35&desc=(working)%20programmer,%20designer,%20and%20creator&descAlignY=55)
-![raonsol's stats](https://raw.githubusercontent.com/raonsol/github-stats-transparent/fc2c58d93a208871a2537a8c5ef4f3929e3b6c49/generated/overview.svg)
-![Top Langs](https://raw.githubusercontent.com/raonsol/github-stats-transparent/fc2c58d93a208871a2537a8c5ef4f3929e3b6c49/generated/languages.svg)
+![raonsol's stats](https://github.com/raonsol/github-stats-transparent/blob/output/generated/overview.svg)
+![Top Langs](https://github.com/raonsol/github-stats-transparent/blob/output/generated/languages.svg)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=raonsol)](https://solved.ac/raonsol)
