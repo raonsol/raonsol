@@ -13,7 +13,7 @@
 <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://docs.oracle.com/javase/10/docs/api/overview-summary.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<a href="https://cran.r-project.org" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<a href="https://www.webassembly.org" target="_blank"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"/></a>
 <a href="https://dev.w3.org/html5/html-author/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="https://www.latex-project.org" target="_blank"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/></a>
@@ -22,14 +22,12 @@
 
 ## 📦 Frameworks
 <a href="https://www.tensorflow.org/api_docs/python/tf?hl=en" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<a href="https://keras.io" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <a href="https://pytorch.org/docs/stable/index.html" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <a href="https://scikit-learn.org/stable/modules/classes.html" target="_blank"><img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
 <a href="https://docs.opencv.org/4.5.4/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="https://www.jquery.com" target="_blank"><img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/></a>
 <a href="https://www.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-
 
 ## 🛠 Tools
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
